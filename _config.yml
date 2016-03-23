@@ -1,3 +1,5 @@
+gems: [jekyll-paginate]
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -6,10 +8,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Ant野菜部落
+title: 麟大大的Ant野菜部落
 email: 517377100@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  大大的Ant野菜部落 QQ群:513951420
+  麟大大的Ant野菜部落 QQ群:513951420
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.yecaibuluo.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
@@ -17,5 +19,8 @@ url: "http://www.yecaibuluo.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+paginate: 10
+paginate_path: "page:num"
 
 port: 80
