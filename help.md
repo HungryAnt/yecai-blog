@@ -7,11 +7,11 @@ order: 10
 
 ### 游戏下载教程
 
-目前版本为1.1.1
+目前版本为1.2.0
 
 1. 百度网盘下载
 
-	下载地址: [http://pan.baidu.com/s/1o7g6xxo](http://pan.baidu.com/s/1o7g6xxo){:target="_blank"}
+	下载地址: [http://pan.baidu.com/s/1qXEzKvy](http://pan.baidu.com/s/1qXEzKvy){:target="_blank"}
 
 2. QQ群下载，加入Ant野菜Q群
 
