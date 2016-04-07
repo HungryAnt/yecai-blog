@@ -5,6 +5,3 @@ permalink: /video/
 order: 5
 ---
 
-
-
-
