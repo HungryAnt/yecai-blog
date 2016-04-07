@@ -28,4 +28,3 @@ categories: release
 ![截图](http://yecai-blog.bceimg.com/images/0_6_0/4.jpg)
 
 ![截图](http://yecai-blog.bceimg.com/images/0_6_0/5.jpg)
-
